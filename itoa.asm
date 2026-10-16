@@ -49,4 +49,4 @@ _start:
     ; terminal input to run 
     ; |  nasm -f elf64 itoa.asm -o itoa.o  |
     ; |  ld itoa.o -o itoa. |
-    ; |  ./itoa  |
+    ; |  ./itoa  | 
